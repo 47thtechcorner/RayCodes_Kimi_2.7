@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://youtu.be/onDdwB5ZUfk">
-    <img src="https://img.youtube.com/vi/onDdwB5ZUfk/0.jpg" alt="Kimi 2.7 Code: The Open Source Claude Fable 5 Killer is HERE!">
+    <img src="https://img.youtube.com/vi/onDdwB5ZUfk/0.jpg" alt="Kimi 2.7 Code: The Open Source Claude Fable 5 Competitor is HERE!">
   </a>
   <h3>📺 <a href="https://youtu.be/onDdwB5ZUfk">Watch the full tutorial on YouTube</a></h3>
 </div>

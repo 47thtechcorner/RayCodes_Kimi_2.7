@@ -1,0 +1,24 @@
+# Model weights and large artifacts
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.gguf
+*.ckpt
+*.onnx
+
+# Python environment and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.env
+.pytest_cache/
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
